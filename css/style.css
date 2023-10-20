@@ -16,10 +16,10 @@
 /* DESIGN SYSTEM */
 :root {
     /* colors */
-    --main-color: purple; /* #0065FC */
-    --main-bg-color: rgb(255, 220, 226); /* #F2F2F2 */
-    --border-color: #D9D9D9; /* #D9D9D9 */
-    --filter-bg-color: #deffe3; /* #DEEBFF */
+    --main-color: #0065FC; 
+    --main-bg-color: #F2F2F2; 
+    --border-color: #D9D9D9; 
+    --filter-bg-color: #DEEBFF; 
     
     /* text configuration */
     --h1-font-size: 22px; 
