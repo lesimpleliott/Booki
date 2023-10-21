@@ -72,6 +72,10 @@
     margin-bottom: 5px;
 }
 
+.hosts__more a {
+    width: 100%;
+}
+
 /* POPULAIRES */ 
 .populars {
     width: 32%;
